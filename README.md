@@ -2,6 +2,7 @@
 <br>
 
 Network Topology: 
+
 <br>
 ![Network Topology:](images/topology.png)
 <br>
@@ -36,11 +37,9 @@ Ping Tests:
 ![8-1:](images/8-1.png)
 <br>
 
-
 <br>
 ![8-3:](images/8-3.png)
 <br>
-
 
 <br>
 ![8-5:](images/8-5.png)
