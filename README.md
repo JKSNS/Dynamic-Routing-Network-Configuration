@@ -31,15 +31,17 @@ Routing Table/ OSPF Neighbors:
 <br>
 
 
-Ping Tests: 
+Ping Testing: 
 <br>
 ![8-1:](images/P1.png)
 <br>
 
+Ping Testing: 
 <br>
 ![8-3:](images/P3.png)
 <br>
 
+Ping Testing: 
 <br>
 ![8-5:](images/P5.png)
 <br>
